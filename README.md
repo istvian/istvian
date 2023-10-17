@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">A self learning programmer who likes to learn</h3>
-
-- 🕹️ I'm currently working as hobby in a indie game **Titus**
+<h3 align="center">A self learning programmer just for hobby</h3>
 
 #### Coderhouse, Front-End Dev Career Course Finals Projects:
 
