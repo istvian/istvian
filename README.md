@@ -7,8 +7,6 @@
 
 - My JavaScript course final project [FarmaFinder](https://github.com/istvian/JS-Final)
 
-- My React Js course final project [Nantiki Shop](https://github.com/istvian/React-Js)
-
 - Also i have other projects in private.
 
 #### 📫 How to reach me **e.r94@outlook.cl**
