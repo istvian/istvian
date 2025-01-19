@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">A self learning programmer just for hobby</h3>
+<h3 align="center">Student programmer analyst, self learning programmer</h3>
 
 #### Coderhouse, Front-End Dev Career Course Finals Projects:
 
