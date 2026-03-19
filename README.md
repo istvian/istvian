@@ -45,7 +45,7 @@ I'm always building something new. You can find my complete work here:
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [e.r94@outlook.cl](mailto:e.r94@outlook.cl)
-- 💼 **LinkedIn:** [Tu-Link-Aquí](https://www.linkedin.com/in/esteban-rojas-903080221)
+- 💼 **LinkedIn:** [Perfil](https://www.linkedin.com/in/esteban-rojas-903080221)
 
 ---
 *“Coding is not just about syntax, it's about solving problems.”*
