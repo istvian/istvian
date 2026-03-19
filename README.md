@@ -1,18 +1,51 @@
-<h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">Student programmer analyst, self learning programmer</h3>
+# Hi there, I'm Esteban! 👋
 
-#### Coderhouse, Front-End Dev Career Course Finals Projects:
+### 🚀 Final-year Programmer Analyst Student & Full-Stack Developer
+I am a passionate developer from Chile, currently finishing my studies at **INACAP**. I love building efficient solutions and I'm constantly learning new technologies to stay at the cutting edge.
 
-- My web dev course final project [Fan site RCHP](https://github.com/istvian/Proyecto-Final)
+---
 
-- My JavaScript course final project [FarmaFinder](https://github.com/istvian/JS-Final)
+### 👤 About Me
+- 🎓 **Education:** Final year of "Analista Programador" at INACAP, Chile.
+- 💍 **Personal:** Happily married.
+- 🌎 **Goal:** Working towards a remote career in software development.
+- 📚 **Current Focus:** Deepening my knowledge in Cloud Computing and Mobile Development.
 
-- Also i have other projects in private.
+---
 
-#### 📫 How to reach me **e.r94@outlook.cl**
+### 🛠️ Tech Stack & Tools
 
+**Languages & Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+**Currently Learning / Certifying**
+- 📱 **React Native** (Building my mobile skills)
+- ☁️ **AWS** (Certification in progress)
+- 🍃 **MongoDB** (Certification in progress)
+- 🐙 **Git & GitHub** (Foundation certification in progress)
 
+---
+
+### 📂 Featured Projects
+I'm always building something new. You can find my complete work here:
+👉 **[View My Portfolio](https://istvian.github.io/Portfolio)**
+
+---
+
+### 📫 Let's Connect!
+- 📧 **Email:** [e.r94@outlook.cl](mailto:e.r94@outlook.cl)
+- 💼 **LinkedIn:** [Tu-Link-Aquí](https://www.linkedin.com/in/esteban-rojas-903080221)
+
+---
+*“Coding is not just about syntax, it's about solving problems.”*
